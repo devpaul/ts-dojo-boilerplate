@@ -1,0 +1,109 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "dojo-core@^2.0.0-alpha.11",
+        "scope": null,
+        "escapedName": "dojo-core",
+        "name": "dojo-core",
+        "rawSpec": "^2.0.0-alpha.11",
+        "spec": ">=2.0.0-alpha.11 <3.0.0",
+        "type": "range"
+      },
+      "/Users/pshannon/src/boilerplate/ts-dojo"
+    ]
+  ],
+  "_from": "dojo-core@>=2.0.0-alpha.11 <3.0.0",
+  "_id": "dojo-core@2.0.0-alpha.13",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/dojo-core",
+  "_nodeVersion": "6.3.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/dojo-core-2.0.0-alpha.13.tgz_1473259440412_0.8635926004499197"
+  },
+  "_npmUser": {
+    "name": "dojotoolkit",
+    "email": "kitsonk@dojotoolkit.org"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "dojo-core@^2.0.0-alpha.11",
+    "scope": null,
+    "escapedName": "dojo-core",
+    "name": "dojo-core",
+    "rawSpec": "^2.0.0-alpha.11",
+    "spec": ">=2.0.0-alpha.11 <3.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/dojo-core/-/dojo-core-2.0.0-alpha.13.tgz",
+  "_shasum": "6111effd91013814a321b412b9f0d81df58a77d0",
+  "_shrinkwrap": null,
+  "_spec": "dojo-core@^2.0.0-alpha.11",
+  "_where": "/Users/pshannon/src/boilerplate/ts-dojo",
+  "bugs": {
+    "url": "https://github.com/dojo/core/issues"
+  },
+  "dependencies": {},
+  "description": "Basic utilites for common TypeScript development",
+  "devDependencies": {
+    "benchmark": "^1.0.0",
+    "codecov.io": "0.1.6",
+    "dojo-loader": ">=2.0.0-beta.5",
+    "dts-generator": "~1.7.0",
+    "formidable": "1.0.17",
+    "glob": "^7.0.3",
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-dojo2": ">=2.0.0-beta.16",
+    "grunt-text-replace": "0.4.0",
+    "grunt-ts": "^5.5.1",
+    "grunt-tslint": "^3.1.0",
+    "grunt-typings": ">=0.1.5",
+    "http-proxy": "0.10.3",
+    "intern": "~3.2.3",
+    "istanbul": "0.4.3",
+    "remap-istanbul": "0.6.4",
+    "sinon": "1.14.1",
+    "tslint": "next",
+    "typescript": "^2.0.2"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "6111effd91013814a321b412b9f0d81df58a77d0",
+    "tarball": "https://registry.npmjs.org/dojo-core/-/dojo-core-2.0.0-alpha.13.tgz"
+  },
+  "homepage": "http://dojotoolkit.org",
+  "license": "BSD-3-Clause",
+  "main": "main.js",
+  "maintainers": [
+    {
+      "name": "dojotoolkit",
+      "email": "kitsonk@dojotoolkit.org"
+    },
+    {
+      "name": "sitepen",
+      "email": "labs@sitepen.com"
+    }
+  ],
+  "name": "dojo-core",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "dojo-has": ">=2.0.0-alpha.4",
+    "dojo-shim": ">=2.0.0-alpha.4"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dojo/core.git"
+  },
+  "scripts": {},
+  "version": "2.0.0-alpha.13"
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"interfaces.js","sourceRoot":"","sources":["../../src/interfaces.ts"],"names":[],"mappings":"","sourcesContent":["export interface EventObject {\n\ttype: string;\n}\n\nexport interface Handle {\n\tdestroy(): void;\n}\n\nexport interface Hash<T> {\n\t[ key: string ]: T;\n}\n"]}

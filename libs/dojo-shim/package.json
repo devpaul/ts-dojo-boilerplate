@@ -1,0 +1,104 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "dojo-shim@^2.0.0-alpha.3",
+        "scope": null,
+        "escapedName": "dojo-shim",
+        "name": "dojo-shim",
+        "rawSpec": "^2.0.0-alpha.3",
+        "spec": ">=2.0.0-alpha.3 <3.0.0",
+        "type": "range"
+      },
+      "/Users/pshannon/src/boilerplate/ts-dojo"
+    ]
+  ],
+  "_from": "dojo-shim@>=2.0.0-alpha.3 <3.0.0",
+  "_id": "dojo-shim@2.0.0-alpha.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/dojo-shim",
+  "_nodeVersion": "6.3.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/dojo-shim-2.0.0-alpha.4.tgz_1472818208103_0.01041357358917594"
+  },
+  "_npmUser": {
+    "name": "dojotoolkit",
+    "email": "kitsonk@dojotoolkit.org"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "dojo-shim@^2.0.0-alpha.3",
+    "scope": null,
+    "escapedName": "dojo-shim",
+    "name": "dojo-shim",
+    "rawSpec": "^2.0.0-alpha.3",
+    "spec": ">=2.0.0-alpha.3 <3.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/dojo-shim/-/dojo-shim-2.0.0-alpha.4.tgz",
+  "_shasum": "a977cb4adb8e400ba1ce8f046083f24eb97c477d",
+  "_shrinkwrap": null,
+  "_spec": "dojo-shim@^2.0.0-alpha.3",
+  "_where": "/Users/pshannon/src/boilerplate/ts-dojo",
+  "bugs": {
+    "url": "https://github.com/dojo/shim/issues"
+  },
+  "dependencies": {},
+  "description": "Modules that provide modular fills of ES6+ functionality",
+  "devDependencies": {
+    "codecov.io": "0.1.6",
+    "dojo-loader": ">=2.0.0-beta",
+    "dts-generator": "~1.7.0",
+    "glob": "^7.0.3",
+    "grunt": "~1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-dojo2": ">=2.0.0-beta.16",
+    "grunt-text-replace": "^0.4.0",
+    "grunt-ts": "^5.5.1",
+    "grunt-tslint": "^3.1.0",
+    "grunt-typings": ">=0.1.5",
+    "intern": "^3.2.3",
+    "istanbul": "^0.4.3",
+    "remap-istanbul": "^0.6.4",
+    "tslint": "next",
+    "typescript": "2.0.2"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "a977cb4adb8e400ba1ce8f046083f24eb97c477d",
+    "tarball": "https://registry.npmjs.org/dojo-shim/-/dojo-shim-2.0.0-alpha.4.tgz"
+  },
+  "homepage": "http://dojotoolkit.org",
+  "license": "BSD-3-Clause",
+  "main": "main.js",
+  "maintainers": [
+    {
+      "name": "dojotoolkit",
+      "email": "kitsonk@dojotoolkit.org"
+    },
+    {
+      "name": "sitepen",
+      "email": "labs@sitepen.com"
+    }
+  ],
+  "name": "dojo-shim",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "dojo-has": ">=2.0.0-alpha.4"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dojo/shim.git"
+  },
+  "scripts": {},
+  "version": "2.0.0-alpha.4"
+}
