@@ -12,7 +12,8 @@
     "url": "https://github.com/devpaul/ts-dojo-boilerplate.git"
   },
   "scripts": {
-    "test": "intern-runner config=tests/intern-local"
+    "test": "intern-runner config=tests/intern-local",
+    "ci": "grunt test"
   },
   "dependencies": {
     "dojo-core": "^2.0.0-alpha.18",
