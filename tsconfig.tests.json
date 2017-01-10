@@ -3,34 +3,28 @@
 	"compilerOptions": {
 		"allowSyntheticDefaultImports": true,
 		"baseUrl": ".",
-		"declaration": false,
+		"declaration": true,
 		"module": "umd",
 		"moduleResolution": "node",
 		"noImplicitAny": true,
 		"noImplicitThis": true,
 		"noUnusedParameters": true,
 		"noUnusedLocals": true,
-		"outDir": "_build/app/src",
+		"outDir": "./_build/tests",
 		"preserveConstEnums": true,
-		"removeComments": false,
+		"removeComments": true,
 		"sourceMap": true,
 		"target": "ES5",
 		"paths": {
-			"dojo-core/*": [
-				"dojo-core/*"
-			],
-			"dojo-has/*": [
-				"dojo-has/*"
-			],
-			"dojo-shim/*": [
-				"dojo-shim/*"
-			],
-			"dojo-loader/*": [
-				"dojo-loader/*"
+			"src/*": [
+				"./_dist/src/*"
 			]
 		}
 	},
+	"files": [
+		"./node_modules/intern/typings/intern/intern.d.ts"
+	],
 	"include": [
-		"./app/src/**/*.ts"
+		"./tests/**/*.ts"
 	]
 }

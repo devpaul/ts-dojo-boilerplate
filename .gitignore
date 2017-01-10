@@ -1,11 +1,10 @@
 /src/*.js.map
 /src/*.js
-dist
-_build
+/_build
 /node_modules
 .baseDir.ts
 .tsconfig*.json
 html-report
 typings
-.grunt
-.idea
+/.grunt
+/.idea

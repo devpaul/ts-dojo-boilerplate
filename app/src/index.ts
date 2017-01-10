@@ -1,7 +1,7 @@
 (function () {
 	const libsDirectory = './libs';
 
-	(<DojoLoader.RootRequire> require).config({
+	(<any> require).config({
 		baseUrl: '.',
 		packages: [
 			{
@@ -23,5 +23,5 @@
 		]
 	});
 
-	require([ 'app/main' ], function () { });
+	(<any> require)([ 'app/main' ], function () { });
 }());
